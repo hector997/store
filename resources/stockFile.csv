@@ -1,0 +1,13 @@
+id;Product;Category;Units;Price
+0001;pencil;library;25;10
+0002;tape;library;20;15
+0003;ruler;library;8;15
+0004;scissors;library;5;20
+0011;calculator;tec;6;50
+0012;Scientific calculator;tec;2;100
+0013;camera;tec;0;200
+1111;Phone case;misc;2;100
+1112;Water bottle;misc;3;130
+0005;textbook;library;10;50
+0111;Measuring tape;tools;2;80
+0112;screwdriver;tools;3;70
